@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Oversv/freeCodeCamp-Pomodoro_clock.git/precache-manifest.2e99cfd88da121c5c1d9dd3e56db22e6.js"
+  "/Oversv/freeCodeCamp-Pomodoro_clock/precache-manifest.a5ecdd9c49473993400da7010c1e2843.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Oversv/freeCodeCamp-Pomodoro_clock.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Oversv/freeCodeCamp-Pomodoro_clock/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
