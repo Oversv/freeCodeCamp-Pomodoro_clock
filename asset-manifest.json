@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Oversv/freeCodeCamp-Pomodoro_clock/static/css/main.6ffe23d3.chunk.css",
-    "main.js": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/main.8a27f7f4.chunk.js",
-    "main.js.map": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/main.8a27f7f4.chunk.js.map",
-    "runtime-main.js": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/runtime-main.8ce27f5f.js",
-    "runtime-main.js.map": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/runtime-main.8ce27f5f.js.map",
-    "static/js/2.8b4f7954.chunk.js": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js",
-    "static/js/2.8b4f7954.chunk.js.map": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js.map",
-    "index.html": "/Oversv/freeCodeCamp-Pomodoro_clock/index.html",
-    "precache-manifest.591f4e5c4d26800a817e4ee22938430a.js": "/Oversv/freeCodeCamp-Pomodoro_clock/precache-manifest.591f4e5c4d26800a817e4ee22938430a.js",
-    "service-worker.js": "/Oversv/freeCodeCamp-Pomodoro_clock/service-worker.js",
-    "static/css/main.6ffe23d3.chunk.css.map": "/Oversv/freeCodeCamp-Pomodoro_clock/static/css/main.6ffe23d3.chunk.css.map",
-    "static/js/2.8b4f7954.chunk.js.LICENSE.txt": "/Oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js.LICENSE.txt",
-    "static/media/bell.mp3": "/Oversv/freeCodeCamp-Pomodoro_clock/static/media/bell.f3e1419d.mp3",
-    "static/media/app.css": "/Oversv/freeCodeCamp-Pomodoro_clock/static/media/digital-7.1e670d88.ttf"
+    "main.css": "/oversv/freeCodeCamp-Pomodoro_clock/static/css/main.3a471b2c.chunk.css",
+    "main.js": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/main.11d3baae.chunk.js",
+    "main.js.map": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/main.11d3baae.chunk.js.map",
+    "runtime-main.js": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/runtime-main.d435ffc8.js",
+    "runtime-main.js.map": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/runtime-main.d435ffc8.js.map",
+    "static/js/2.8b4f7954.chunk.js": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js",
+    "static/js/2.8b4f7954.chunk.js.map": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js.map",
+    "index.html": "/oversv/freeCodeCamp-Pomodoro_clock/index.html",
+    "precache-manifest.8df9e8f2bb00b56e907e292f17ef6a32.js": "/oversv/freeCodeCamp-Pomodoro_clock/precache-manifest.8df9e8f2bb00b56e907e292f17ef6a32.js",
+    "service-worker.js": "/oversv/freeCodeCamp-Pomodoro_clock/service-worker.js",
+    "static/css/main.3a471b2c.chunk.css.map": "/oversv/freeCodeCamp-Pomodoro_clock/static/css/main.3a471b2c.chunk.css.map",
+    "static/js/2.8b4f7954.chunk.js.LICENSE.txt": "/oversv/freeCodeCamp-Pomodoro_clock/static/js/2.8b4f7954.chunk.js.LICENSE.txt",
+    "static/media/bell.mp3": "/oversv/freeCodeCamp-Pomodoro_clock/static/media/bell.f3e1419d.mp3",
+    "static/media/app.css": "/oversv/freeCodeCamp-Pomodoro_clock/static/media/digital-7.1e670d88.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ce27f5f.js",
+    "static/js/runtime-main.d435ffc8.js",
     "static/js/2.8b4f7954.chunk.js",
-    "static/css/main.6ffe23d3.chunk.css",
-    "static/js/main.8a27f7f4.chunk.js"
+    "static/css/main.3a471b2c.chunk.css",
+    "static/js/main.11d3baae.chunk.js"
   ]
 }
