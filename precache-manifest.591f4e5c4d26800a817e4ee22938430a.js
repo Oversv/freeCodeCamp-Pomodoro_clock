@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "957377f9aeb068d0f5d91e9a63290d45",
+    "revision": "1759ab9c65070eac93e4cb833ee210f5",
     "url": "/Oversv/freeCodeCamp-Pomodoro_clock/index.html"
   },
   {
