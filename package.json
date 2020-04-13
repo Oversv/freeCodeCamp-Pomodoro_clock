@@ -1,6 +1,6 @@
 {
   "name": "pomodoro-clock",
-  "homepage": "https://github.com/Oversv/freeCodeCamp-Pomodoro_clock.git",
+  "homepage": "https://github.com/Oversv/freeCodeCamp-Pomodoro_clock", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
