@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import Header from './components/Header'
 import BreakPanel from './components/BreakPanel'
 import SesionPanel from './components/SesionPanel'
 import Display from './components/Display'
@@ -138,18 +139,8 @@ function App() {
 
   return (
     <div className="App">
-      <div className="panels">
-        <BreakPanel 
-          content={breakLength}
-          increment = {handleBreakIncrement}
-          decrement = {handleBreakDecrement}
-        />
-        <SesionPanel 
-          content={sessionLength}
-          increment = {handleSessionIncrement}
-          decrement = {handleSessionDecrement}
-        />
-      </div>
+      <Header/>
+      <div className="main">
         <Display
           display = {display}
           min = {minutes}
@@ -158,6 +149,19 @@ function App() {
           pause = {handlePause}
           reset = {handleReset}      
         />
+        <div className="panels">
+          <BreakPanel 
+            content={breakLength}
+            increment = {handleBreakIncrement}
+            decrement = {handleBreakDecrement}
+          />
+          <SesionPanel 
+            content={sessionLength}
+            increment = {handleSessionIncrement}
+            decrement = {handleSessionDecrement}
+          />
+        </div>
+      </div>
     </div>
   );
 }

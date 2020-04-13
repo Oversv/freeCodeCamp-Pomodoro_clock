@@ -22,8 +22,10 @@ const Display= ({ display, min, sec, reset, start, pause}) =>{
     return(
         <div className="display-box"> 
             <div>
-                <p id="timer-label">{display}</p>         
-                <p id="time-left">{`${min.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`}</p>
+                <h2 id="timer-label">{display}</h2>  
+                <div className="display">
+                    <p id="time-left" className="display-digits">{`${min.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`}</p>
+                </div>       
                 <audio id="beep" src={audio} ref={audioRef}/>   
             </div>  
 
